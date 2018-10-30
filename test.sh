@@ -2,7 +2,7 @@
 
 out=$(bash hello.sh)
 
-if [ $out == hello ]; then
+if [ $out == Hello ]; then
 
    echo "Test good";
 else
