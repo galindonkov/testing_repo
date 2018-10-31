@@ -1,3 +1,3 @@
 #!/bin/bash
 #comment
-echo Hello
+echo hello
